@@ -30,7 +30,7 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Ça c'est mon nindo !", "author": "Luuxis" },
+            { "message": "Ça c'est mon nindo !", "author": "AXO" },
             { "message": "J'ai l'âme d'un ninja !", "author": "AXO" },
             { "message": "Bienvenue sur le Launcher Ultimate Shinobi !", "author": "AXO" }
         ];
